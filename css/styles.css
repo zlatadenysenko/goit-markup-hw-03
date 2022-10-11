@@ -179,8 +179,8 @@ body {
   margin: 0 auto;
 }
 
-.hero-btn :hover,
-.hero-btn :focus {
+.hero-btn:hover,
+.hero-btn:focus {
   background-color: var(--btn-active-color);
 }
 
